@@ -1,0 +1,33 @@
+body {
+    width: 100%;
+}
+
+.navbar-brand, .nav-item {
+    padding-right: 20px;
+}
+
+img {
+    width: 700px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.images-side img {
+    width: 50%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card {
+    width: 70%;
+}
+
+.card img {
+    height: auto;
+    object-fit: cover;
+}
+
+.gallery img {
+    width: 50%;
+    height: auto;
+}
